@@ -5,7 +5,7 @@ This is the project given as an assignment in __Full Stack Web Dev Bootcamp__ cl
 
 ![Restaurant Landing Page](/127.0.0.1_5500_%20(4).png)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0d9fcae7-4315-46ac-884d-41ca7969c9a1/deploy-status)]()
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0d9fcae7-4315-46ac-884d-41ca7969c9a1/deploy-status)](https://incomparable-figolla-ed1b7d.netlify.app/)
 
  # Skills.
  - HTML
